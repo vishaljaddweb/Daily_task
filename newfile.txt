@@ -1,0 +1,3 @@
+hll ths s txt fl . nd.js s n pn-src, crss-pltfrm, bck-nd jvscrpt rntm nvrnmnt tht rns n th v8 ngn nd xcts jvscrpt cd tsd  wb brwsr. 
+thgh .js s th stndrd flnm xtnsn fr jvscrpt cd, th nm "nd.js" dsn't rfr t  prtclr fl n ths cntxt nd s mrly th nm f th prdct. nd.js hs n vnt-drvn rchtctr cpbl f synchrns /. ths dsgn chcs m t ptmz thrghpt nd sclblty n wb pplctns wth mny npt/tpt prtns, s wll s fr rl-tm wb pplctns (.g., rl-tm cmmnctn prgrms nd brwsr gms).
+ths s ppr cs chrctrs.ths s  txt fl.
